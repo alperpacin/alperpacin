@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> My name is Alper.</h1>
+<h1 align="center">Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> My name is Alper.</h1>
 
 -  I'm a front-end developer in Ankara, who turns ideas into a product.
 
